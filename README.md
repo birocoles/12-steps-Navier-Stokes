@@ -3,6 +3,7 @@
 This repository contains the sequence of notebooks featuring the *CFD Python:
 the 12 steps to Navier-Stokes equations*, a practical module for learning the
 foundations of Computational Fluid Dynamics (Barba and Forsyth, 2018).
+The notebooks were downloaded from the GitHub repository [CFDPython](https://github.com/barbagroup/CFDPython).
 
 
 * Barba, Lorena A., and Forsyth, Gilbert F. (2018). CFD Python: the 12 steps to
